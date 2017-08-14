@@ -1,0 +1,9 @@
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\bin\Debug\netcoreapp1.1\HeroService.deps.json
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\bin\Debug\netcoreapp1.1\HeroService.runtimeconfig.json
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\bin\Debug\netcoreapp1.1\HeroService.runtimeconfig.dev.json
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\bin\Debug\netcoreapp1.1\HeroService.dll
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\bin\Debug\netcoreapp1.1\HeroService.pdb
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\obj\Debug\netcoreapp1.1\HeroService.csprojResolveAssemblyReference.cache
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\obj\Debug\netcoreapp1.1\HeroService.AssemblyInfo.cs
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\obj\Debug\netcoreapp1.1\HeroService.dll
+c:\users\uday\documents\visual studio 2017\Projects\HeroService\HeroService\obj\Debug\netcoreapp1.1\HeroService.pdb
